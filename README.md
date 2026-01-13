@@ -1,2 +1,1 @@
-# version locale sur mon ordi
-
+# c'est la quete des conflits
